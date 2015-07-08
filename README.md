@@ -2,7 +2,7 @@
 ###Jordan Hughes
 ####jordanhughes at cs.ucsb.edu
 
-This is a python 2 based grayscale image box filter.  It uses the open cv module just to read our image in and create a matrix.
+This is a Python 2 based grayscale image box filter.  It uses the open cv module just to read our image in and create a matrix.
 From there it calculates an integral image, i.e. a summed area table, then uses that to find an average of the surrounding filter size
 squared pixels and replaces the current value with the new value.
 
@@ -39,6 +39,6 @@ be computed in constant time. This is significantly faster than other techniques
 
 ![Mary 9](/images/mary_small_9.png)
 
-#####Box filter using size 11:
+#####Box filter using size 13:
 
 ![Mary 13](/images/mary_small_13.png)
