@@ -1,6 +1,7 @@
 #BoxFilter
 ###Jordan Hughes :see_no_evil:
-####jordanhughes at cs.ucsb.edu
+###UC Santa Barbara
+####hughesj919 at gmail.com
 
 This is a Python 2 based grayscale image box filter.  It uses the open cv module just to read our image in and create a matrix.
 From there it calculates an integral image, i.e. a summed area table, then uses that to find an average of the surrounding filter size
