@@ -1,5 +1,5 @@
 #BoxFilter
-###Jordan Hughes
+###Jordan Hughes :see_no_evil:
 ####jordanhughes at cs.ucsb.edu
 
 This is a Python 2 based grayscale image box filter.  It uses the open cv module just to read our image in and create a matrix.
